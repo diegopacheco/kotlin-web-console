@@ -1,3 +1,7 @@
+## Result
+
+<img src="result.png"></img>
+
 [![official JetBrains project](http://jb.gg/badges/official-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![NPM version](https://img.shields.io/npm/v/kotlin-playground.svg)](https://www.npmjs.com/package/kotlin-playground)
 
